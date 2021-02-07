@@ -3,6 +3,10 @@
 * initialize services ` go run .`
 * (or docker way)
 
+**Stack**
+* Go
+* Rabbit MQ
+
 **Services**
 * export dependecies and env vars
 * initialize services ` go run .`
