@@ -1,7 +1,7 @@
 * export dependecies and env vars
 * initialize services ` go run .`
 
-** Services
+**Services**
 * export dependecies and env vars
 * initialize services ` go run .`
 
