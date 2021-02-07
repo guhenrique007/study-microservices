@@ -1,5 +1,7 @@
+**Initialization**
 * export dependecies and env vars
 * initialize services ` go run .`
+(or docker way)
 
 **Services**
 * export dependecies and env vars
