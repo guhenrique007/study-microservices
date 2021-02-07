@@ -1,0 +1,26 @@
+{
+  "matches": [
+    { 
+      "uuid": "1",
+      "team_home":  {
+        "team": "Palmeiras",
+        "goals": "4"
+      },
+      "team_away": {
+        "team": "Corinthians",
+        "goals": "0"
+      }
+    },
+    { 
+      "uuid": "2",
+      "team_home":  {
+        "team": "Santos",
+        "goals": "2"
+      },
+      "team_away": {
+        "team": "Atlético-MG",
+        "goals": "2"
+      }
+    }
+  ]
+}
