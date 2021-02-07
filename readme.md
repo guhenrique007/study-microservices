@@ -17,8 +17,8 @@
     Santos 2 X 2 Atlético-MG
   ```
 
-* Table
-    * process table by results:
+* Table 
+    * process table by results and send to queue:
   ```
     Palmeiras — 3
     Atlético-MG — 1
