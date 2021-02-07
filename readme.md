@@ -8,9 +8,6 @@
 * Rabbit MQ
 
 **Services**
-* export dependecies and env vars
-* initialize services ` go run .`
-
 * Match service
     * provides match results for matches.json  
 
